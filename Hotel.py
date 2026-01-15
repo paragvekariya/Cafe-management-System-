@@ -1,8 +1,8 @@
 menu = {
-    'Pizza': 40,
+    'Pizza': 45,
     'Pasta': 50,
     'Burger': 60,
-    'Salad': 70,
+    'Salad': 75,
     'Coffee': 80,
 
 }
